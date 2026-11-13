@@ -123,5 +123,5 @@ tests/
 
 ## Licencia
 
-Pendiente de definir — agregar el archivo `LICENSE` cuando se seleccione la licencia del repositorio.
+Este proyecto está bajo la licencia [MIT](./LICENSE).
 

@@ -123,5 +123,5 @@ tests/
 
 ## License
 
-Pending definition — add a `LICENSE` file once the repository license is chosen.
+This project is licensed under the [MIT License](./LICENSE).
 
