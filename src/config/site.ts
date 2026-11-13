@@ -25,9 +25,9 @@ export const SITE_CONFIG = {
     github: {
       id: 'github',
       label: { es: 'GitHub', en: 'GitHub' },
-      href: null,
-      displayValue: null,
-      status: 'pending',
+      href: 'https://github.com/Natsujmgl',
+      displayValue: 'github.com/Natsujmgl',
+      status: 'active',
       pendingNote: {
         es: 'Enlace de GitHub pendiente de configurar en src/config/site.ts',
         en: 'GitHub URL pending configuration in src/config/site.ts',
@@ -36,9 +36,9 @@ export const SITE_CONFIG = {
     linkedin: {
       id: 'linkedin',
       label: { es: 'LinkedIn', en: 'LinkedIn' },
-      href: null,
-      displayValue: null,
-      status: 'pending',
+      href: 'https://www.linkedin.com/in/julio-miguel-gimenez-leon-2402141b2/',
+      displayValue: 'linkedin.com/in/julio-miguel-gimenez-leon-2402141b2',
+      status: 'active',
       pendingNote: {
         es: 'Perfil de LinkedIn pendiente de configurar en src/config/site.ts',
         en: 'LinkedIn profile URL pending configuration in src/config/site.ts',
@@ -47,9 +47,9 @@ export const SITE_CONFIG = {
     cv: {
       id: 'cv',
       label: { es: 'Currículum (CV)', en: 'Resume (CV)' },
-      href: null,
-      displayValue: null,
-      status: 'pending',
+      href: '/cv-julio-gimenez-leon.pdf',
+      displayValue: 'cv-julio-gimenez-leon.pdf',
+      status: 'active',
       pendingNote: {
         es: 'Archivo o enlace de CV pendiente de configurar en src/config/site.ts',
         en: 'Resume (CV) file or URL pending configuration in src/config/site.ts',
@@ -58,9 +58,9 @@ export const SITE_CONFIG = {
     email: {
       id: 'email',
       label: { es: 'Correo electrónico', en: 'Email' },
-      href: null,
-      displayValue: 'julio.gimenez.dev@pendiente-configurar.example',
-      status: 'pending',
+      href: 'mailto:julkleon3@gmail.com',
+      displayValue: 'julkleon3@gmail.com',
+      status: 'active',
       pendingNote: {
         es: 'Dirección de correo de ejemplo; reemplazar con el correo real en src/config/site.ts',
         en: 'Placeholder email address; replace with real email in src/config/site.ts',
