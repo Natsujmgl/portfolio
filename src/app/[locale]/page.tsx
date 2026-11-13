@@ -2,7 +2,6 @@ import type { Metadata } from 'next';
 import { ArrowRight, Bot, Layers, ShieldCheck } from 'lucide-react';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { CaseStudyCard } from '@/components/projects/CaseStudyCard';
-import { PublicProjectCard } from '@/components/projects/PublicProjectCard';
 import { CopyEmailButton } from '@/components/sections/CopyEmailButton';
 import { ExperienceTimeline } from '@/components/sections/ExperienceTimeline';
 import { ExternalLinksList } from '@/components/sections/ExternalLinksList';
@@ -14,7 +13,6 @@ import { SectionHeading } from '@/components/ui/SectionHeading';
 import { SITE_CONFIG } from '@/config/site';
 import { CASE_STUDIES } from '@/content/case-studies';
 import { EXPERIENCE_ITEMS, SKILL_CATEGORIES } from '@/content/experience';
-import { PUBLIC_PROJECTS } from '@/content/projects';
 import { Link } from '@/i18n/navigation';
 import { buildLocalizedMetadata } from '@/lib/seo';
 import type { Locale } from '@/types/portfolio';
@@ -201,23 +199,6 @@ export default async function HomePage({ params }: HomePageProps) {
           />
 
           <TechnicalSkillsGrid categories={SKILL_CATEGORIES} locale={typedLocale} />
-        </section>
-      </Reveal>
-
-      {/* Open Source / Public Projects */}
-      <Reveal>
-        <section className="space-y-8">
-          <SectionHeading
-            eyebrow={t('openSourceEyebrow')}
-            title={t('openSourceTitle')}
-            description={t('openSourceDescription')}
-          />
-
-          <div className="grid gap-5 md:grid-cols-2">
-            {PUBLIC_PROJECTS.map((project) => (
-              <PublicProjectCard key={project.id} project={project} locale={typedLocale} />
-            ))}
-          </div>
         </section>
       </Reveal>
 

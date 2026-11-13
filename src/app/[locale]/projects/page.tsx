@@ -1,9 +1,7 @@
 import type { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
-import { PublicProjectCard } from '@/components/projects/PublicProjectCard';
 import { SectionHeading } from '@/components/ui/SectionHeading';
 import { CASE_STUDIES } from '@/content/case-studies';
-import { PUBLIC_PROJECTS } from '@/content/projects';
 import { ProjectFilterBar } from '@/features/project-filters/ProjectFilterBar';
 import { buildLocalizedMetadata } from '@/lib/seo';
 import type { Locale } from '@/types/portfolio';
@@ -52,18 +50,6 @@ export default async function ProjectsPage({ params }: ProjectsPageProps) {
           description={t('professionalSectionDescription')}
         />
         <ProjectFilterBar caseStudies={CASE_STUDIES} locale={typedLocale} />
-      </section>
-
-      <section className="space-y-6 border-t border-border-subtle pt-12">
-        <SectionHeading
-          title={t('openSourceSectionTitle')}
-          description={t('openSourceSectionDescription')}
-        />
-        <div className="grid gap-5 md:grid-cols-2">
-          {PUBLIC_PROJECTS.map((project) => (
-            <PublicProjectCard key={project.id} project={project} locale={typedLocale} />
-          ))}
-        </div>
       </section>
     </div>
   );
