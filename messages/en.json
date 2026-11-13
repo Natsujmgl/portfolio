@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Julio Miguel Giménez León — Software Engineer",
+      "description": "Software Engineering portfolio of Julio Miguel Giménez León. Over 5 years building enterprise systems, backend architectures, legacy modernization, application security, and AI automation."
+    },
+    "about": {
+      "title": "About — Julio Miguel Giménez León",
+      "description": "Professional background in enterprise applications, ERP and e-commerce systems, application security, legacy modernization, and AI-assisted development workflows."
+    },
+    "experience": {
+      "title": "Experience & Technical Skills — Julio Miguel Giménez León",
+      "description": "Chronological engineering career history and categorized technical skills organized by specialization."
+    },
+    "projects": {
+      "title": "Case Studies & Projects — Julio Miguel Giménez León",
+      "description": "Private enterprise engineering case studies presented without exposing corporate code, alongside public and open-source projects."
+    },
+    "contact": {
+      "title": "Contact — Julio Miguel Giménez León",
+      "description": "Contact channels and centralized professional links for Julio Miguel Giménez León."
+    }
+  },
+  "nav": {
+    "skipToContent": "Skip to main content",
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects & Cases",
+    "contact": "Contact",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "primaryLabel": "Primary navigation"
+  },
+  "theme": {
+    "label": "Select color theme",
+    "light": "Light theme",
+    "dark": "Dark theme",
+    "system": "System theme"
+  },
+  "language": {
+    "label": "Select language",
+    "es": "Switch to Spanish",
+    "en": "Switch to English"
+  },
+  "common": {
+    "pendingLink": "Pending configuration",
+    "privateCaseBadge": "Private Professional Case",
+    "openSourceBadge": "Open Source / Personal",
+    "inDevelopment": "In development",
+    "active": "Active",
+    "prototype": "Prototype",
+    "readCaseStudy": "Explore case study",
+    "viewAllCases": "View all case studies & projects",
+    "viewExperience": "View full experience",
+    "viewAbout": "Read my engineering approach",
+    "backToProjects": "Back to Projects & Cases",
+    "copyEmail": "Copy email",
+    "emailCopied": "Email copied",
+    "copyError": "Could not copy automatically",
+    "previousCase": "Previous case",
+    "nextCase": "Next case",
+    "configureNote": "Centralized configuration",
+    "currentRole": "Current / Ongoing",
+    "tierCore": "Core specialization",
+    "tierProficient": "Strong proficiency",
+    "tierApplied": "Applied experience"
+  },
+  "home": {
+    "eyebrow": "SOFTWARE ENGINEER · BACKEND · FULL STACK · AI AUTOMATION",
+    "headline": "Building and evolving enterprise software that solves real production problems.",
+    "summary": "Software Engineer with over five years of experience developing, maintaining, and evolving enterprise applications, specializing in backend engineering, legacy systems, databases, application security, and AI-assisted automation.",
+    "primaryCta": "Explore case studies",
+    "secondaryCta": "Contact",
+    "specializationsEyebrow": "Core specializations",
+    "specializationsTitle": "Engineering judgment applied to production systems",
+    "specializationsDescription": "Experience focused on stability, security, and sustainable evolution of complex business platforms.",
+    "specializations": {
+      "enterprise": {
+        "title": "Enterprise Systems & Backend",
+        "description": "Business logic design, ERP systems, e-commerce, electronic invoicing, SQL optimization, and cross-system integrations."
+      },
+      "security": {
+        "title": "Modernization & Application Security",
+        "description": "Legacy monolith evolution, SAST vulnerability triage with Checkmarx, and OWASP Top 10 remediation."
+      },
+      "ai": {
+        "title": "AI-Powered Development Automation",
+        "description": "Specialized agents, skills, rules, MCP integrations, and Spec-Driven Development workflows for L3 support."
+      }
+    },
+    "featuredEyebrow": "Technical case studies",
+    "featuredTitle": "Complex problems, engineering decisions, and lessons learned",
+    "featuredDescription": "Documented professional experiences with original educational diagrams, without exposing proprietary code or confidential architectures.",
+    "experienceEyebrow": "Career trajectory",
+    "experienceTitle": "Over 5 years evolving production software",
+    "experienceDescription": "From PHP/Laravel development and team leadership to digital engineering across mission-critical enterprise platforms.",
+    "skillsEyebrow": "Technical stack",
+    "skillsTitle": "Technologies organized by domain",
+    "skillsDescription": "No arbitrary percentage bars: grouped by real-world context and level of specialization.",
+    "openSourceEyebrow": "Public projects & lab",
+    "openSourceTitle": "Clear boundary between private corporate work and open-source code",
+    "openSourceDescription": "Technical demos and public repositories in progress to demonstrate architecture, clean code, and verifiable workflows.",
+    "linksEyebrow": "Profiles & contact",
+    "linksTitle": "Professional links and direct outreach",
+    "linksDescription": "External links are centralized in configuration to avoid inventing URLs before final values are confirmed."
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Pragmatic engineering for complex production systems",
+    "intro": "Across more than five years in enterprise software environments, my focus has been understanding existing production systems, safeguarding operational continuity, and evolving architectures without introducing regressions.",
+    "pillarsTitle": "Engineering pillars",
+    "pillars": {
+      "enterprise": {
+        "title": "Enterprise applications, ERP & e-commerce",
+        "description": "Hands-on experience with administrative modules, electronic invoicing, commerce workflows, and critical integrations where data integrity and business continuity come first."
+      },
+      "fullstack": {
+        "title": "Backend & Frontend development",
+        "description": "Strong backend foundation in PHP and Laravel, complemented by Python and frontend experience with React, Next.js, Vue.js, and Nuxt."
+      },
+      "legacySecurity": {
+        "title": "Legacy modernization & application security",
+        "description": "Experience intervening in inherited codebases (from PHP 5.3 / CakePHP 1.3 and Laravel 5.6 toward modern releases), remediating Checkmarx SAST findings, and enforcing OWASP Top 10 controls."
+      },
+      "devopsAi": {
+        "title": "Cloud, CI/CD & AI automation",
+        "description": "Production operations across Linux, AWS EC2, Docker, and CI/CD pipelines with GitHub Actions, Jenkins, and Nullplatform, paired with AI agent workflows, MCP, and SDD."
+      },
+      "leadership": {
+        "title": "Development team coordination",
+        "description": "Prior experience leading a development team at Grupo EPEM: requirements analysis, technical coordination, and delivery oversight."
+      }
+    },
+    "readingLevelsTitle": "Two ways to read this portfolio",
+    "readingLevelsDescription": "Designed for two depth levels: a 30-second executive overview for recruiters, and deep technical case studies with interactive diagrams for Engineering Managers and Tech Leads."
+  },
+  "experience": {
+    "eyebrow": "Experience & skills",
+    "title": "Chronological timeline and technical stack",
+    "subtitle": "Verified career progression without fabricated metrics or inflated titles.",
+    "timelineTitle": "Professional experience",
+    "skillsTitle": "Technical skills by category"
+  },
+  "projects": {
+    "eyebrow": "Engineering evidence",
+    "title": "Case Studies & Projects",
+    "subtitle": "Explicit separation between confidential professional work and public open-source or personal projects.",
+    "filterLabel": "Filter by category",
+    "filters": {
+      "all": "All",
+      "security": "Security",
+      "modernization": "Modernization",
+      "ai-automation": "AI Automation",
+      "enterprise": "Enterprise Systems"
+    },
+    "professionalSectionTitle": "Professional Case Studies (Private)",
+    "professionalSectionDescription": "Real industry work explained through engineering context, technical decisions, and original educational diagrams while strictly protecting corporate confidentiality.",
+    "openSourceSectionTitle": "Open Source & Personal Projects",
+    "openSourceSectionDescription": "Public repositories and interactive demonstrations focused on architecture clarity, code quality, and reproducible workflows.",
+    "emptyFilter": "No case studies match the selected category.",
+    "repositoryLabel": "Repository",
+    "demoLabel": "Open interactive demo",
+    "architectureLabel": "Architecture",
+    "privacyBanner": "To protect corporate confidentiality, this case study contains no proprietary source code, credentials, or private internal metrics."
+  },
+  "caseStudy": {
+    "privacyNotice": "Private Professional Case — No corporate code or exploitable details",
+    "diagramTitle": "Interactive educational diagram",
+    "sections": {
+      "technicalContext": "1. Technical Context",
+      "problem": "2. Problem",
+      "challenges": "3. Challenges",
+      "personalContribution": "4. Personal Contribution",
+      "engineeringDecisions": "5. Engineering Decisions",
+      "implementedSolution": "6. Implemented Solution",
+      "technologies": "7. Technologies Used",
+      "verifiableResults": "8. Verifiable Results",
+      "learnings": "9. Learnings"
+    }
+  },
+  "diagrams": {
+    "security": {
+      "title": "Conceptual authorization & OWASP remediation flow",
+      "subtitle": "Educational comparison between an unprotected legacy request path and a defense-in-depth control chain.",
+      "vulnerableMode": "Vulnerable flow (Educational)",
+      "hardenedMode": "Hardened flow (Recommended)",
+      "stepLabel": "Control layer",
+      "legacyRisk": "Detected risk",
+      "hardenedControl": "Implemented control"
+    },
+    "modernization": {
+      "title": "Progressive migration map: Laravel 5.6 → Laravel 10",
+      "subtitle": "Technical inspection areas evaluated when upgrading a production monolith while preserving operational continuity.",
+      "focusLabel": "Analysis area",
+      "beforeLabel": "Baseline state (5.6)",
+      "afterLabel": "Target state (10)",
+      "checksLabel": "Key verifications"
+    },
+    "aiWorkflow": {
+      "title": "Interactive simulator: AI Development Workflow Lab (Fictional data)",
+      "subtitle": "Step through the 7 stages of an L3 support automation pipeline with mandatory human approval before Pull Request merge.",
+      "ticketLabel": "Simulated ticket",
+      "resetButton": "Reset flow",
+      "prevStage": "Previous stage",
+      "nextStage": "Next stage",
+      "mcpLabel": "Simulated MCP / tool call",
+      "outputLabel": "Stage output",
+      "humanGate": "Human approval required before merging changes"
+    },
+    "enterprise": {
+      "title": "Enterprise system integration topology",
+      "subtitle": "Conceptual breakdown of responsibilities across ERP core, e-commerce storefront, electronic invoicing, and database layers.",
+      "selectNode": "Select component",
+      "responsibilitiesLabel": "Engineering responsibilities",
+      "patternsLabel": "Reliability patterns"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's talk about software engineering",
+    "subtitle": "Open to conversations around Software Engineering, backend architecture, legacy modernization, and AI-assisted development workflows.",
+    "directEmailTitle": "Direct email",
+    "directEmailNote": "Placeholder address configured in src/config/site.ts until the final email is confirmed.",
+    "profilesTitle": "Professional profiles & CV",
+    "profilesDescription": "External profile URLs are centralized and flagged as pending until verified links are provided.",
+    "availabilityTitle": "Collaboration focus",
+    "availabilityItems": [
+      "Software Engineer / Backend Engineer / Full Stack roles.",
+      "Enterprise application evolution, APIs, and system integrations.",
+      "Legacy system modernization and application security hardening.",
+      "Developer workflow automation using AI agents and MCP."
+    ]
+  },
+  "footer": {
+    "builtWith": "Built with Next.js App Router, strict TypeScript, Tailwind CSS, and next-intl.",
+    "privacyNote": "Professional case studies respect confidentiality agreements and use original educational diagrams.",
+    "navigation": "Sections"
+  }
+}
+

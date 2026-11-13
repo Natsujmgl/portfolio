@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Julio Miguel Giménez León — Software Engineer",
+      "description": "Portfolio de ingeniería de software de Julio Miguel Giménez León. Más de 5 años desarrollando sistemas empresariales, backend, modernización legacy, seguridad aplicativa y automatización con IA."
+    },
+    "about": {
+      "title": "Sobre mí — Julio Miguel Giménez León",
+      "description": "Trayectoria profesional en aplicaciones empresariales, sistemas ERP, e-commerce, seguridad aplicativa, modernización legacy y automatización con IA."
+    },
+    "experience": {
+      "title": "Experiencia y Stack Técnico — Julio Miguel Giménez León",
+      "description": "Historial profesional cronológico y competencias técnicas organizadas por área de especialización."
+    },
+    "projects": {
+      "title": "Casos de Estudio y Proyectos — Julio Miguel Giménez León",
+      "description": "Casos de estudio de ingeniería empresarial sin divulgar código privado y proyectos personales o de código abierto."
+    },
+    "contact": {
+      "title": "Contacto — Julio Miguel Giménez León",
+      "description": "Canales de contacto y enlaces profesionales configurados para Julio Miguel Giménez León."
+    }
+  },
+  "nav": {
+    "skipToContent": "Saltar al contenido principal",
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "experience": "Experiencia",
+    "projects": "Proyectos y Casos",
+    "contact": "Contacto",
+    "openMenu": "Abrir menú de navegación",
+    "closeMenu": "Cerrar menú de navegación",
+    "primaryLabel": "Navegación principal"
+  },
+  "theme": {
+    "label": "Seleccionar tema visual",
+    "light": "Tema claro",
+    "dark": "Tema oscuro",
+    "system": "Tema del sistema"
+  },
+  "language": {
+    "label": "Seleccionar idioma",
+    "es": "Cambiar a Español",
+    "en": "Cambiar a Inglés"
+  },
+  "common": {
+    "pendingLink": "Pendiente de configurar",
+    "privateCaseBadge": "Caso Profesional Privado",
+    "openSourceBadge": "Open Source / Personal",
+    "inDevelopment": "En desarrollo",
+    "active": "Activo",
+    "prototype": "Prototipo",
+    "readCaseStudy": "Explorar caso técnico",
+    "viewAllCases": "Ver todos los casos y proyectos",
+    "viewExperience": "Ver trayectoria completa",
+    "viewAbout": "Conocer mi enfoque técnico",
+    "backToProjects": "Volver a Proyectos y Casos",
+    "copyEmail": "Copiar correo",
+    "emailCopied": "Correo copiado",
+    "copyError": "No se pudo copiar automáticamente",
+    "previousCase": "Caso anterior",
+    "nextCase": "Siguiente caso",
+    "configureNote": "Configuración centralizada",
+    "currentRole": "Actual / En curso",
+    "tierCore": "Especialización principal",
+    "tierProficient": "Experiencia sólida",
+    "tierApplied": "Práctica aplicada"
+  },
+  "home": {
+    "eyebrow": "SOFTWARE ENGINEER · BACKEND · FULL STACK · AI AUTOMATION",
+    "headline": "Desarrollo software empresarial que resuelve problemas reales en producción.",
+    "summary": "Software Engineer con más de cinco años de experiencia desarrollando, manteniendo y evolucionando aplicaciones empresariales, con especialización en backend, sistemas legacy, bases de datos, seguridad y automatización mediante inteligencia artificial.",
+    "primaryCta": "Explorar casos de estudio",
+    "secondaryCta": "Contactar",
+    "specializationsEyebrow": "Áreas de especialización",
+    "specializationsTitle": "Criterio técnico aplicado a sistemas reales",
+    "specializationsDescription": "Experiencia centrada en la estabilidad, seguridad y evolución de plataformas de negocio complejas.",
+    "specializations": {
+      "enterprise": {
+        "title": "Sistemas Empresariales y Backend",
+        "description": "Diseño de lógica de negocio, sistemas ERP, e-commerce, facturación electrónica, optimización SQL e integraciones entre sistemas."
+      },
+      "security": {
+        "title": "Modernización y Seguridad Aplicativa",
+        "description": "Evolución de monolitos legacy, análisis de vulnerabilidades con Checkmarx (SAST) y remediación alineada con OWASP Top 10."
+      },
+      "ai": {
+        "title": "Automatización con Agentes de IA",
+        "description": "Orquestación de agentes especializados, skills, rules, integraciones MCP y flujos Spec-Driven Development para soporte L3."
+      }
+    },
+    "featuredEyebrow": "Casos de estudio técnicos",
+    "featuredTitle": "Problemas complejos, decisiones de ingeniería y aprendizaje",
+    "featuredDescription": "Experiencias profesionales documentadas con diagramas originales y datos educativos, sin exponer código ni arquitectura confidencial.",
+    "experienceEyebrow": "Trayectoria profesional",
+    "experienceTitle": "Más de 5 años evolucionando software en producción",
+    "experienceDescription": "Desde desarrollo PHP/Laravel y liderazgo de equipo hasta ingeniería digital en sistemas empresariales de alta criticidad.",
+    "skillsEyebrow": "Stack técnico",
+    "skillsTitle": "Tecnologías organizadas por dominio",
+    "skillsDescription": "Sin porcentajes arbitrarios: agrupadas por contexto de uso y nivel de especialización real.",
+    "openSourceEyebrow": "Proyectos públicos y laboratorio",
+    "openSourceTitle": "Separación clara entre trabajo corporativo privado y código abierto",
+    "openSourceDescription": "Demos técnicas y proyectos públicos en desarrollo para demostrar arquitectura, flujo de trabajo y código verificable.",
+    "linksEyebrow": "Perfiles y contacto",
+    "linksTitle": "Enlaces profesionales y comunicación directa",
+    "linksDescription": "Todos los enlaces externos están centralizados en configuración para evitar URLs ficticias hasta confirmar los definitivos."
+  },
+  "about": {
+    "eyebrow": "Sobre mí",
+    "title": "Ingeniería pragmática sobre sistemas complejos",
+    "intro": "A lo largo de más de cinco años trabajando en entornos empresariales, mi foco ha estado en comprender sistemas existentes en producción, mantener su continuidad operativa y evolucionarlos sin introducir regresiones.",
+    "pillarsTitle": "Pilares de mi trayectoria",
+    "pillars": {
+      "enterprise": {
+        "title": "Aplicaciones empresariales, ERP y e-commerce",
+        "description": "Trabajo diario con módulos administrativos, facturación electrónica, catálogos comerciales e integraciones críticas donde la integridad de los datos y la continuidad del negocio son prioritarias."
+      },
+      "fullstack": {
+        "title": "Desarrollo Backend y Frontend",
+        "description": "Especialización sólida en backend con PHP y Laravel, complementada con Python y experiencia en interfaces modernas con React, Next.js, Vue.js y Nuxt."
+      },
+      "legacySecurity": {
+        "title": "Modernización legacy y seguridad aplicativa",
+        "description": "Experiencia interviniendo sistemas heredados (desde PHP 5.3 / CakePHP 1.3 y Laravel 5.6 hacia versiones actuales), remediando hallazgos SAST en Checkmarx y aplicando controles OWASP Top 10."
+      },
+      "devopsAi": {
+        "title": "Cloud, CI/CD y automatización con IA",
+        "description": "Operación en entornos Linux, AWS EC2, Docker y pipelines con GitHub Actions, Jenkins y Nullplatform, sumado al diseño de workflows con agentes de IA, MCP y SDD."
+      },
+      "leadership": {
+        "title": "Coordinación de equipos de desarrollo",
+        "description": "Experiencia previa liderando equipo técnico en Grupo EPEM: análisis de requerimientos, alineación técnica y acompañamiento en implementaciones."
+      }
+    },
+    "readingLevelsTitle": "Cómo leer este portfolio",
+    "readingLevelsDescription": "Pensado en dos niveles de profundidad: un resumen ejecutivo para evaluar encaje en 30 segundos y casos de estudio técnicos con diagramas interactivos para revisar criterio de arquitectura."
+  },
+  "experience": {
+    "eyebrow": "Experiencia y competencias",
+    "title": "Trayectoria cronológica y stack técnico",
+    "subtitle": "Historial verificado sin métricas inventadas ni cargos inflados.",
+    "timelineTitle": "Experiencia profesional",
+    "skillsTitle": "Competencias técnicas por categoría"
+  },
+  "projects": {
+    "eyebrow": "Evidencia técnica",
+    "title": "Casos de Estudio y Proyectos",
+    "subtitle": "Distinción explícita entre experiencias profesionales bajo confidencialidad y proyectos públicos o personales.",
+    "filterLabel": "Filtrar por categoría",
+    "filters": {
+      "all": "Todos",
+      "security": "Seguridad",
+      "modernization": "Modernización",
+      "ai-automation": "Automatización IA",
+      "enterprise": "Sistemas Empresariales"
+    },
+    "professionalSectionTitle": "Casos de Estudio Profesionales (Privados)",
+    "professionalSectionDescription": "Experiencias laborales reales explicadas desde el problema, las decisiones de ingeniería y diagramas educativos originales, respetando estrictamente la confidencialidad corporativa.",
+    "openSourceSectionTitle": "Proyectos Open Source y Personales",
+    "openSourceSectionDescription": "Repositorios públicos y demostraciones técnicas orientadas a mostrar arquitectura, código limpio y flujos de trabajo ejecutables.",
+    "emptyFilter": "No hay casos de estudio para la categoría seleccionada.",
+    "repositoryLabel": "Repositorio",
+    "demoLabel": "Ver demo interactiva",
+    "architectureLabel": "Arquitectura",
+    "privacyBanner": "Por confidencialidad profesional, este caso no incluye código fuente corporativo, credenciales ni métricas internas privadas."
+  },
+  "caseStudy": {
+    "privacyNotice": "Caso Profesional Privado — Sin código corporativo ni detalles explotables",
+    "diagramTitle": "Diagrama educativo interactivo",
+    "sections": {
+      "technicalContext": "1. Contexto técnico",
+      "problem": "2. Problema",
+      "challenges": "3. Desafíos",
+      "personalContribution": "4. Contribución personal",
+      "engineeringDecisions": "5. Decisiones de ingeniería",
+      "implementedSolution": "6. Solución implementada",
+      "technologies": "7. Tecnologías utilizadas",
+      "verifiableResults": "8. Resultados verificables",
+      "learnings": "9. Aprendizajes"
+    }
+  },
+  "diagrams": {
+    "security": {
+      "title": "Flujo conceptual de autorización y remediación OWASP",
+      "subtitle": "Comparación educativa entre un flujo heredado sin controles suficientes y una cadena de defensa en profundidad.",
+      "vulnerableMode": "Flujo vulnerable (Educativo)",
+      "hardenedMode": "Flujo endurecido (Recomendado)",
+      "stepLabel": "Capa de control",
+      "legacyRisk": "Riesgo detectado",
+      "hardenedControl": "Control implementado"
+    },
+    "modernization": {
+      "title": "Mapa de migración progresiva Laravel 5.6 → Laravel 10",
+      "subtitle": "Inspección de áreas técnicas evaluadas durante la actualización de un monolito manteniendo la continuidad operativa.",
+      "focusLabel": "Área de análisis",
+      "beforeLabel": "Estado inicial (5.6)",
+      "afterLabel": "Estado objetivo (10)",
+      "checksLabel": "Verificaciones clave"
+    },
+    "aiWorkflow": {
+      "title": "Simulador interactivo: AI Development Workflow Lab (Datos ficticios)",
+      "subtitle": "Recorrido por las 7 etapas del flujo de automatización de soporte L3 con aprobación humana obligatoria antes del Pull Request.",
+      "ticketLabel": "Ticket simulado",
+      "resetButton": "Reiniciar flujo",
+      "prevStage": "Etapa anterior",
+      "nextStage": "Siguiente etapa",
+      "mcpLabel": "Integración MCP / Herramienta simulada",
+      "outputLabel": "Resultado de la etapa",
+      "humanGate": "Aprobación humana requerida antes de fusionar cambios"
+    },
+    "enterprise": {
+      "title": "Topología de integraciones en sistemas empresariales",
+      "subtitle": "Exploración conceptual de responsabilidades entre núcleo ERP, comercio electrónico, facturación electrónica y capa de datos.",
+      "selectNode": "Seleccionar componente",
+      "responsibilitiesLabel": "Responsabilidades técnicas",
+      "patternsLabel": "Patrones de confiabilidad"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Conversemos sobre ingeniería de software",
+    "subtitle": "Disponible para conversar sobre oportunidades de Software Engineering, arquitectura backend, modernización de sistemas y automatización con IA.",
+    "directEmailTitle": "Correo electrónico",
+    "directEmailNote": "Dirección placeholder configurada en src/config/site.ts hasta confirmar el correo definitivo.",
+    "profilesTitle": "Perfiles profesionales y CV",
+    "profilesDescription": "Los enlaces externos se mantienen centralizados y marcados como pendientes hasta contar con las URLs verificadas.",
+    "availabilityTitle": "Enfoque de colaboración",
+    "availabilityItems": [
+      "Roles de Software Engineer / Backend Engineer / Full Stack.",
+      "Evolución de sistemas empresariales, APIs e integraciones.",
+      "Modernización de aplicaciones legacy y seguridad aplicativa.",
+      "Automatización de flujos de desarrollo con agentes de IA y MCP."
+    ]
+  },
+  "footer": {
+    "builtWith": "Construido con Next.js App Router, TypeScript estricto, Tailwind CSS y next-intl.",
+    "privacyNote": "Los casos profesionales respetan acuerdos de confidencialidad y utilizan diagramas educativos originales.",
+    "navigation": "Secciones"
+  }
+}
+
