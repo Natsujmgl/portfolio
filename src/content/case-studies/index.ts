@@ -70,8 +70,8 @@ export const CASE_STUDIES: CaseStudy[] = [
         ],
       },
       implementedSolution: {
-        es: 'Se aplicó una estrategia de defensa en profundidad por capas: validación estricta de sesión y roles antes de ejecutar lógica de negocio, verificación explícita de propiedad de registros para mitigar IDOR, uso consistente de enlaces parametrizados para eliminar vectores de SQL Injection y validación de tokens anti-CSRF en mutaciones, validando cada cambio con nuevas ejecuciones de Checkmarx.',
-        en: 'A layered defense-in-depth approach was applied: strict session and role validation prior to business logic execution, explicit record-ownership verification to mitigate IDOR, consistent parameterized bindings to eliminate SQL Injection vectors, and anti-CSRF token validation on mutations, re-verifying fixes against subsequent Checkmarx scans.',
+        es: 'Se aplicó una estrategia de defensa en profundidad por capas: validación de sesión y roles antes de ejecutar lógica de negocio, verificación de pertenencia de registros para mitigar IDOR, uso consistente de enlaces parametrizados en consultas intervenidas y validación de tokens anti-CSRF en mutaciones de estado.',
+        en: 'A layered defense-in-depth approach was applied: session and role validation prior to business logic execution, record-ownership verification to mitigate IDOR, consistent parameterized bindings on refactored queries, and anti-CSRF token checks on state mutations.',
       },
       technologies: [
         'PHP 5.3',
@@ -83,14 +83,14 @@ export const CASE_STUDIES: CaseStudy[] = [
       ],
       verifiableResults: {
         es: [
-          'Eliminación de hallazgos críticos y altos identificados en los ciclos de análisis SAST sobre los módulos intervenidos.',
-          'Fortalecimiento verificable de los límites de acceso entre roles y protección frente a manipulación directa de identificadores (IDOR).',
-          'Continuidad operativa del sistema legado sin regresiones reportadas durante las entregas.',
+          'Remediación sistemática de patrones vulnerables reportados por Checkmarx en los controladores y consultas asignados.',
+          'Incorporación de controles de autorización en servidor para mitigar manipulación directa de identificadores (IDOR).',
+          'Preservación de la compatibilidad funcional de los módulos administrativos intervenidos durante las entregas.',
         ],
         en: [
-          'Closure of high-severity SAST findings identified across the remediated modules.',
-          'Verifiable strengthening of role boundaries and protection against direct identifier manipulation (IDOR).',
-          'Continuous operation of the legacy platform without regressions introduced during rollout.',
+          'Systematic remediation of vulnerable patterns flagged by Checkmarx across assigned controllers and queries.',
+          'Enforcement of server-side authorization controls to mitigate direct object reference (IDOR) manipulation.',
+          'Preservation of functional compatibility across the refactored administrative modules throughout delivery.',
         ],
       },
       learnings: {

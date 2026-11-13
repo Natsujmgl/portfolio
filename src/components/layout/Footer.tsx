@@ -48,6 +48,14 @@ export function Footer({ locale }: FooterProps) {
           >
             {navT('contact')}
           </Link>
+          <a
+            href={SITE_CONFIG.links.github.href ?? 'https://github.com/Natsujmgl/portfolio'}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-text-muted transition-colors hover:text-text-primary"
+          >
+            GitHub
+          </a>
         </nav>
       </div>
     </footer>

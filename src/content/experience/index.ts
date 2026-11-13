@@ -9,10 +9,10 @@ export const EXPERIENCE_ITEMS: ExperienceItem[] = [
       en: 'Digital Engineer',
     },
     period: {
-      es: 'Diciembre 2023 – Fecha de finalización pendiente de confirmar',
-      en: 'December 2023 – End date pending confirmation',
+      es: 'Diciembre 2023 – Noviembre 2026',
+      en: 'December 2023 – November 2026',
     },
-    current: true,
+    current: false,
     summary: {
       es: 'Desarrollo, mantenimiento y evolución de sistemas empresariales en producción, incluyendo aplicaciones ERP, comercio electrónico, facturación electrónica, bases de datos e integraciones entre plataformas.',
       en: 'Development, maintenance, and evolution of production enterprise systems, including ERP platforms, e-commerce, electronic invoicing, databases, and cross-system integrations.',

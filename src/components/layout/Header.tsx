@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Menu, Terminal, X } from 'lucide-react';
+import { Github, Menu, Terminal, X } from 'lucide-react';
 import { useTranslations } from 'next-intl';
 import { SITE_CONFIG } from '@/config/site';
 import { LanguageSwitcher } from '@/features/language/LanguageSwitcher';
@@ -69,6 +69,17 @@ export function Header() {
         </nav>
 
         <div className="flex items-center gap-2">
+          <a
+            href={SITE_CONFIG.links.github.href ?? 'https://github.com/Natsujmgl/portfolio'}
+            target="_blank"
+            rel="noopener noreferrer"
+            title={t('viewSource')}
+            aria-label={t('viewSource')}
+            className="hidden items-center gap-1.5 rounded-lg border border-border-subtle bg-bg-elevated px-2.5 py-1.5 text-xs font-medium text-text-secondary transition-colors hover:border-accent-primary hover:text-accent-primary sm:inline-flex"
+          >
+            <Github className="h-3.5 w-3.5" aria-hidden="true" />
+            <span>GitHub</span>
+          </a>
           <LanguageSwitcher />
           <ThemeToggle />
 

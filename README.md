@@ -1,8 +1,27 @@
 # Software Engineer Portfolio — Julio Miguel Giménez León
 
+[![CI](https://github.com/Natsujmgl/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/Natsujmgl/portfolio/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black.svg)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue.svg)](https://www.typescriptlang.org/)
+
 [Leer en Español](./README.es.md)
 
-Bilingual (`es` default, `en` secondary) software engineering portfolio focused on architectural judgment, enterprise backend systems, legacy modernization, application security, and AI-assisted development automation — without exposing proprietary corporate code or private metrics.
+Software engineering portfolio for **Julio Miguel Giménez León**, designed for Engineering Managers and Technical Recruiters. It communicates real-world software engineering depth, legacy architecture modernization, application security, and AI-assisted development automation through structured, defensible technical case studies—without exposing proprietary corporate code.
+
+---
+
+## 🎯 What a Technical Recruiter or Engineering Manager Will Find
+
+- **Two Reading Depths:** A clean 30-second profile overview (roles, verified timeline, categorized technical stack) and deep-dive technical case studies with original interactive educational diagrams.
+- **Enterprise Case Studies (Zero Corporate Code Expose):**
+  1. *Legacy Application Security Hardening:* OWASP Top 10 remediation, server-side access controls (IDOR/CSRF), and Checkmarx SAST triage on a PHP 5.3 / CakePHP 1.3 monolith.
+  2. *Legacy System Modernization:* Progressive compatibility and dependency migration from Laravel 5.6 to Laravel 10 preserving operational business continuity.
+  3. *AI-Powered Development Automation:* L3 incident triage pipeline with Jira intake, MCP tool orchestration, Spec-Driven Development (SDD), and mandatory human sign-off gates.
+  4. *Enterprise Software Engineering:* High-reliability ERP business logic, electronic invoicing integrations, and relational database tuning in PostgreSQL & MySQL.
+- **Production Engineering Standards:** Built with strict TypeScript, App Router, full bilingual internationalization (ES/EN), dark/light theme persistence, hardened HTTP security headers, and automated CI pipelines with Playwright E2E and Vitest unit coverage.
+
+---
 
 ## Tech Stack
 

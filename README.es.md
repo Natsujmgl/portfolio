@@ -1,8 +1,27 @@
 # Portfolio de Ingeniería de Software — Julio Miguel Giménez León
 
+[![CI](https://github.com/Natsujmgl/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/Natsujmgl/portfolio/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black.svg)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue.svg)](https://www.typescriptlang.org/)
+
 [Read in English](./README.md)
 
-Portfolio bilingüe (`es` predeterminado, `en` secundario) orientado a demostrar criterio de ingeniería de software, experiencia en sistemas empresariales backend, modernización legacy, seguridad aplicativa y automatización con IA — sin exponer código corporativo privado ni métricas confidenciales.
+Portfolio de ingeniería de software de **Julio Miguel Giménez León**, diseñado para Engineering Managers, Tech Leads y Recruiters Técnicos. Comunica criterio de ingeniería de software, modernización de arquitecturas legacy, seguridad aplicativa y automatización con agentes de IA a través de casos de estudio estructurados y defendibles — sin exponer código corporativo privado.
+
+---
+
+## 🎯 Qué va a encontrar un Recruiter o Tech Lead
+
+- **Dos niveles de lectura:** Un resumen claro de 30 segundos (roles, trayectoria cronológica verificada, stack clasificado por especialización) y casos de estudio técnicos profundos con diagramas educativos interactivos originales.
+- **Casos de Estudio Empresariales (Sin código corporativo expuesto):**
+  1. *Endurecimiento de Seguridad en Aplicación Legacy:* Remediación OWASP Top 10, controles de acceso del lado servidor (IDOR/CSRF) y triaje SAST con Checkmarx en un monolito PHP 5.3 / CakePHP 1.3.
+  2. *Modernización de Sistema Legacy:* Migración técnica y de dependencias desde Laravel 5.6 a Laravel 10 preservando la continuidad del negocio.
+  3. *Automatización del Flujo de Desarrollo con IA:* Pipeline de triaje para soporte L3 con ingesta de tickets Jira, orquestación de herramientas MCP, Spec-Driven Development (SDD) y compuerta de aprobación humana obligatoria.
+  4. *Ingeniería en Sistemas Empresariales:* Lógica de negocio en ERPs, integraciones de facturación electrónica y optimización de bases de datos relacionales en PostgreSQL y MySQL.
+- **Estándares de ingeniería en producción:** TypeScript estricto, Next.js App Router, internacionalización bilingüe (ES/EN), persistencia de tema claro/oscuro, headers HTTP de seguridad endurecidos y pipeline de CI con tests unitarios en Vitest y E2E en Playwright.
+
+---
 
 ## Stack Tecnológico
 

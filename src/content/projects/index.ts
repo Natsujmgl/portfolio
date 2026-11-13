@@ -57,11 +57,8 @@ export const PUBLIC_PROJECTS: PublicProject[] = [
       'Vitest',
       'Playwright',
     ],
-    repositoryUrl: null,
+    repositoryUrl: 'https://github.com/Natsujmgl/portfolio',
     demoPath: '/',
-    pendingReason: {
-      es: 'Enlace al repositorio público pendiente de configurar en src/config/site.ts.',
-      en: 'Public repository URL pending configuration in src/config/site.ts.',
-    },
+    pendingReason: undefined,
   },
 ];
