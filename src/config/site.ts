@@ -68,4 +68,3 @@ export const SITE_CONFIG = {
     },
   } satisfies Record<'github' | 'linkedin' | 'cv' | 'email', ExternalLinkItem>,
 } as const;
-

@@ -38,4 +38,3 @@ describe('LanguageSwitcher', () => {
     expect(replaceMock).toHaveBeenCalledWith('/projects', { locale: 'en' });
   });
 });
-

@@ -89,4 +89,3 @@ export function PublicProjectCard({ project, locale }: PublicProjectCardProps) {
     </article>
   );
 }
-

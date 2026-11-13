@@ -21,4 +21,3 @@ export function CaseStudyDiagram({ type, locale }: CaseStudyDiagramProps) {
       return <EnterpriseArchitectureDiagram locale={locale} />;
   }
 }
-

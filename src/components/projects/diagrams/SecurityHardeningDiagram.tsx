@@ -211,4 +211,3 @@ export function SecurityHardeningDiagram({ locale }: SecurityHardeningDiagramPro
     </div>
   );
 }
-

@@ -37,4 +37,3 @@ describe('ProjectFilterBar', () => {
     expect(screen.getAllByRole('article')).toHaveLength(4);
   });
 });
-

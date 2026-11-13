@@ -319,4 +319,3 @@ export function AiWorkflowSimulator({ locale }: AiWorkflowSimulatorProps) {
     </div>
   );
 }
-

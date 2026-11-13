@@ -77,4 +77,3 @@ export function ExternalLinksList({ locale }: ExternalLinksListProps) {
     </div>
   );
 }
-

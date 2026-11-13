@@ -176,4 +176,3 @@ export function LegacyModernizationDiagram({ locale }: LegacyModernizationDiagra
     </div>
   );
 }
-

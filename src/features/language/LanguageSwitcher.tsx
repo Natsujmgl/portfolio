@@ -55,4 +55,3 @@ export function LanguageSwitcher() {
     </div>
   );
 }
-

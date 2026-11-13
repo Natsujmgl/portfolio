@@ -50,4 +50,3 @@ describe('Routing and bilingual content integrity', () => {
     expect(PUBLIC_PROJECTS.some((project) => project.status === 'in-development')).toBe(true);
   });
 });
-

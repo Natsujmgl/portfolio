@@ -54,4 +54,3 @@ export function CaseStudyCard({ study, locale }: CaseStudyCardProps) {
     </article>
   );
 }
-

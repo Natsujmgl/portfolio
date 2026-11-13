@@ -51,4 +51,3 @@ export function CaseStudyNavigation({ previous, next, locale }: CaseStudyNavigat
     </nav>
   );
 }
-

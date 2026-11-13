@@ -185,4 +185,3 @@ export function EnterpriseArchitectureDiagram({ locale }: EnterpriseArchitecture
     </div>
   );
 }
-

@@ -60,4 +60,3 @@ export function CopyEmailButton({ email, className }: CopyEmailButtonProps) {
     </div>
   );
 }
-

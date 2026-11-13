@@ -26,4 +26,3 @@ describe('CopyEmailButton', () => {
     expect(screen.getByRole('status')).toHaveTextContent(enMessages.common.emailCopied);
   });
 });
-

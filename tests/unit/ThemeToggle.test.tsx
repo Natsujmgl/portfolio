@@ -41,4 +41,3 @@ describe('ThemeToggle', () => {
     expect(setThemeMock).toHaveBeenCalledWith('light');
   });
 });
-

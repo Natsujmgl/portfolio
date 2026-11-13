@@ -62,4 +62,3 @@ export function ExperienceTimeline({ items, locale, compact = false }: Experienc
     </ol>
   );
 }
-
